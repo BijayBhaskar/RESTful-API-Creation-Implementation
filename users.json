@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "username": "alice",
+    "password": "alice123",
+    "role": "admin",
+    "email": "alice.johnson@example.com",
+    "department": "Engineering"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "username": "bob",
+    "password": "bob123",
+    "role": "user",
+    "email": "bob.smith@example.com",
+    "department": "Marketing"
+  },
+  {
+    "id": 3,
+    "name": "Carol Williams",
+    "username": "carol",
+    "password": "carol123",
+    "role": "user",
+    "email": "carol.williams@example.com",
+    "department": "Human Resources"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "username": "david",
+    "password": "david123",
+    "role": "user",
+    "email": "david.brown@example.com",
+    "department": "Finance"
+  },
+  {
+    "id": 5,
+    "name": "Eva Davis",
+    "username": "eva",
+    "password": "eva123",
+    "role": "user",
+    "email": "eva.davis@example.com",
+    "department": "Customer Support"
+  },
+  {
+    "id": 6,
+    "name": "Frank Miller",
+    "username": "frank",
+    "password": "frank123",
+    "role": "user",
+    "email": "frank.miller@example.com",
+    "department": "Sales"
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "username": "grace",
+    "password": "grace123",
+    "role": "user",
+    "email": "grace.lee@example.com",
+    "department": "Engineering"
+  },
+  {
+    "id": 8,
+    "name": "Henry Wilson",
+    "username": "henry",
+    "password": "henry123",
+    "role": "user",
+    "email": "henry.wilson@example.com",
+    "department": "Product"
+  },
+  {
+    "id": 9,
+    "name": "Ivy Martinez",
+    "username": "ivy",
+    "password": "ivy123",
+    "role": "user",
+    "email": "ivy.martinez@example.com",
+    "department": "Legal"
+  },
+  {
+    "id": 10,
+    "name": "Jack Thompson",
+    "username": "jack",
+    "password": "jack123",
+    "role": "user",
+    "email": "jack.thompson@example.com",
+    "department": "IT"
+  }
+]
